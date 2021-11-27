@@ -15,6 +15,7 @@ Esta página en un principio sería para uso personal del usuario, pero me gusta
 ## Estado actual del proyecto <a name="2"></a>
 Actualmente el proyecto está apenas comenzando, aún falta el diseño y obviamente el código, por lo que estoy buscando gente dispuesta a contribuir con lo que pueda y en lo que quiera.
 
+Lo único que tengo medianamente claro es cómo me gustaría que se viera el Dashboard principal, lo primero que va a ver el usuario cuando esté logueado: [Dribbble Clinic Management Dashboard](https://dribbble.com/shots/16947994/attachments/12020755?mode=media).
 
 ### Tecnologías que se usarían para la creación y organización del proyecto: <a name="3"> </a>
 
