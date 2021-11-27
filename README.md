@@ -9,9 +9,7 @@
 
 
 ## Acerca del proyecto <a name="1"> </a>
-Hola! Hace un tiempo terminé de cursar por seis meses desarrollo Full-Stack. Al terminar el curso logré darme cuenta de qué parte del desarrollo web me gustaba más (Frontend), pero ahora que no estoy siendo guiado por algún profesor o una institución me siento bastante perdido. 
-
-Por esa misma razón quise comenzar este proyecto. Mi idea es crear una página web (si todo sale bien, podríamos migrarla de página web a aplicación) donde los usuarios puedan agregar los animes que están viendo, los mangas que están leyendo, y mantener un seguimiento de los capítulos vistos, los capítulos totales que tiene y los que les falta para terminar. Esas serían las features principales, pero obviamente pueden y van a haber más: comentarios personales sobre la obra, puntuación personal, incluso reviews enteras.
+Mi idea es crear una página web (si todo sale bien, podríamos migrarla de página web a aplicación) donde los usuarios puedan agregar los animes que están viendo, los mangas que están leyendo, y mantener un seguimiento de los capítulos vistos, los capítulos totales que tiene y los que les falta para terminar. Esas serían las features principales, pero obviamente pueden y van a haber más: comentarios personales sobre la obra, puntuación personal, incluso reviews enteras.
 
 Esta página en un principio sería para uso personal del usuario, pero me gustaría que más adelante se pudeiran compartir los perfiles entre la comunidad de usuarios registrados, entrar a los perfiles de los demás y ver los comentarios que tienen acerca de tal obra, junto con toda la demás información que mencioné anteriormente.
 ## Estado actual del proyecto <a name="2"></a>
