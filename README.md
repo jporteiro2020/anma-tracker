@@ -39,7 +39,7 @@ Lo único que tengo medianamente claro es cómo me gustaría que se viera el Das
 
 Considero que nunca voy a tener gente suficiente para algo de lo nombrado arriba, así que no importa en qué momento leas esto siempre vas a poder sumarte al proyecto.
 
-### ¿Por qué elegí estas tecnologías? <a name="5"> </a>
+### ¿Por qué elegí esas tecnologías? <a name="5"> </a>
 **React framework Next.js**: primero que nada, React es una de las tecnologías que más he visto que son solicitadas en el ambiente laboral, además de que cuenta con una comunidad bastante amplia de donde encontrar gente. Este proyecto para mí, como para seguramente otros de los contribuidores signifique una experiencia más a sumar para el currículum, por lo que consideré que usar React sería la mejor idea. Next.js por otro lado considero que suma muchísimas características a React que (en mi opinión personal) debería tener por defecto, pero que por algún motivo no tiene: principalmente la forma en la que maneja las rutas, me gusta mucho como recomienda estilizar los componentes con CSS Modules, además que cada vez se está haciendo más tendencia utilizar Next.js.
 
 **Redux**: Redux a mi parecer es la librería más conocida para el manejo de estado global una aplicación. Al ser este un proyecto Novice-Friendly, constantemente vamos a estar necesitando de una documentación bien detallada, sumado con una comunidad amplia con la cual resolver nuestras dudas. 
