@@ -42,13 +42,21 @@ Considero que nunca voy a tener gente suficiente para algo de lo nombrado arriba
 
 ### ¿Por qué elegí estas tecnologías? <a name="5"> </a>
 **React framework Next.js**: primero que nada, React es una de las tecnologías que más he visto que son solicitadas en el ambiente laboral, además de que cuenta con una comunidad bastante amplia de donde encontrar gente. Este proyecto para mí, como para seguramente otros de los contribuidores signifique una experiencia más a sumar para el currículum, por lo que consideré que usar React sería la mejor idea. Next.js por otro lado considero que suma muchísimas características a React que (en mi opinión personal) debería tener por defecto, pero que por algún motivo no tiene: principalmente la forma en la que maneja las rutas, me gusta mucho como recomienda estilizar los componentes con CSS Modules, además que cada vez se está haciendo más tendencia utilizar Next.js.
+
 **Redux**: Redux a mi parecer es la librería más conocida para el manejo de estado global una aplicación. Al ser este un proyecto Novice-Friendly, constantemente vamos a estar necesitando de una documentación bien detallada, sumado con una comunidad amplia con la cual resolver nuestras dudas. 
+
 **TailwindCSS**: acá es más que nada preferencia personal. Estuve probando varios frameworks de css que se puedan integrar bien con React, y si bien el favorito de la mayoría pueda no ser Tailwind, siempre me gustó más trabajar con estilizar los componentes con Clases, y no estar importando muchísimos componentes pre-configurados (como es en ChakraUI o MaterialUI, por ejemplo).
+
 **PostgreSQL**: hay varias razones por las que lo elegí: es gratis además de ser de código abierto, muy compatible con diferentes OS, una configuración fácil gracias a PgAdmin, al ser de código abierto es bastante estable (antes de cada release la comunidad revisa el código).
+
 **Node.js + Express**: simplemente el hecho de trabajar el backend con base en JavaScript es una característica super buena. Me gusta que el Frontend y el Backend sean tratados por el mismo lenguaje, además de tener una enorme documentación y una enorme comunidad también.
+
 **Trello**: lo más simple que vi para usar. La idea es no frenarnos por tener que acostumbrarse a una plataforma que puede ser más compleja, cuando el ambiente del proyecto no lo amerita.
+
 **Figma**: lo dejé bastante resumido en el apartado de Tecnologías a usar.
+
 **Discord**: sé que hay aplicaciones con un approach más profesional o incluso dedicado a este tipo de proyectos, pero muchas de estas apps requieren de una membresía paga para tener ciertas features útiles, y no estoy en disposición de hacerle pagar algo a alguien.
+
 
 ### Contacto: <a name="6"> </a>
 - Mi discord: reqtiem#6274
