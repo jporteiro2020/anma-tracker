@@ -36,6 +36,7 @@ Actualmente el proyecto está apenas comenzando, aún falta el diseño y obviame
 - Frontend developers.
 - Backend developers.
 - Gente dispuesta a encargarse del diseño de la página.
+- Cualquier rol/aporte que estes dispuesto a ofrecer, siempre va a ser bien recibido.
 
 Considero que nunca voy a tener gente suficiente para algo de lo nombrado arriba, así que no importa en qué momento leas esto siempre vas a poder sumarte al proyecto.
 
