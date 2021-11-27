@@ -23,7 +23,7 @@ Lo único que tengo medianamente claro es cómo me gustaría que se viera el Das
 	 - Redux para el manejo de estado de la página.
 	 - Next.js native CSS Modules para estilos.
 	 - TailwindCSS para el maquetado.
-	 - Cualquier otra cosa que falte se discute entre las personas asignadas a estas tareas, pero la base sería todo lo de arriba.
+	 - Cualquier otra tecnolog que falte se discute entre las personas asignadas a estas tareas, pero la base sería todo lo de arriba.
 - PostgreSQL para la base de datos.
 - Node.js + Express para el backend.
 - MyAnimeList API.
