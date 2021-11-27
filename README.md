@@ -27,6 +27,7 @@ Actualmente el proyecto está apenas comenzando, aún falta el diseño y obviame
 	 - Cualquier otra cosa que falte se discute entre las personas asignadas a estas tareas, pero la base sería todo lo de arriba.
 - PostgreSQL para la base de datos.
 - Node.js + Express para el backend.
+- MyAnimeList API.
 - Trello para la organización y asignación de tareas.
 - Figma para el diseño de la página (acá realmente sería la aplicación con la que más se sienta(n) cómodo/as la(s) persona(s) encargada(s) del diseño).
 - Discord para comunicarnos entre los miembros. 
