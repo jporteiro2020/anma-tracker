@@ -59,7 +59,7 @@ Considero que nunca voy a tener gente suficiente para algo de lo nombrado arriba
 
 **Figma**: lo dejé bastante resumido en el apartado de Tecnologías a usar.
 
-**Discord**: sé que hay aplicaciones con un approach más profesional o incluso dedicado a este tipo de proyectos, pero muchas de estas apps requieren de una membresía paga para tener ciertas features útiles, y no estoy en disposición de hacerle pagar algo a alguien.
+**Discord**: sé que hay aplicaciones con un approach más profesional o incluso dedicado a este tipo de proyectos, pero muchas de estas apps requieren de una membresía paga para tener ciertas features útiles, y no estoy en una posición como para hacerle pagar algo a alguien.
 
 
 ### Contacto: <a name="contacto"> </a>
