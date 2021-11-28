@@ -21,8 +21,8 @@ Lo único que tengo medianamente claro es cómo me gustaría que se viera el Das
 
  - React framework Next.js como base principal (JavaScript, no Typescript).
 	 - Redux para el manejo de estado de la página.
-	 - Next.js native CSS Modules para estilos.
-	 - TailwindCSS para el maquetado.
+	 - Next.js native CSS Modules para los estilos personalizados.
+	 - TailwindCSS para el maquetado (además de la configuración default de tailwind tendríamos la config del proyecto).
 	 - Cualquier otra tecnología que falte se discute entre las personas asignadas a estas tareas, pero la base sería todo lo de arriba.
 - PostgreSQL para la base de datos.
 - Node.js + Express para el backend.
