@@ -10,7 +10,7 @@
 
 
 ## Acerca del proyecto <a name="acerca"> </a>
-Mi idea es crear una página web (si todo sale bien, podríamos migrarla de página web a aplicación) donde los usuarios puedan agregar los animes que están viendo, los mangas que están leyendo, y mantener un seguimiento de los capítulos vistos, los capítulos totales que tiene y los que les falta para terminar. Esas serían las features principales, pero obviamente pueden y van a haber más: comentarios personales sobre la obra, puntuación personal, incluso reviews enteras.
+Mi idea es crear una página web (si todo sale bien, haremos una aplicación mobile y una aplicación de escritorio) donde los usuarios puedan agregar los animes que están viendo, los mangas que están leyendo, y mantener un seguimiento de los capítulos vistos, los capítulos totales que tiene y los que les falta para terminar. Esas serían las features principales, pero obviamente pueden y van a haber más: comentarios personales sobre la obra, puntuación personal, incluso reviews enteras.
 
 Esta página en un principio sería para uso personal del usuario, pero me gustaría que más adelante se pudeiran compartir los perfiles entre la comunidad de usuarios registrados, entrar a los perfiles de los demás y ver los comentarios que tienen acerca de tal obra, junto con toda la demás información que mencioné anteriormente.
 ## Motivación <a name="motivacion"></a>
@@ -29,6 +29,8 @@ Lo único que tengo medianamente claro es cómo me gustaría que se viera el Das
 	 - Next.js native CSS Modules para los estilos personalizados.
 	 - TailwindCSS para el maquetado (además de la configuración default de tailwind tendríamos la config del proyecto).
 	 - Cualquier otra tecnología que falte se discute entre las personas asignadas a estas tareas, pero la base sería todo lo de arriba.
+ - React Native para la aplicación Mobile
+ - Electron para la aplicación de escritorio
 - PostgreSQL para la base de datos.
 - Node.js + Express para el backend.
 - MyAnimeList API.
